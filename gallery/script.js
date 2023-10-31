@@ -3,7 +3,7 @@ $(function(){
     var swiper = new Swiper('.carousel-gallery .swiper-container', {
       effect: 'slide',
       speed: 900,
-      slidesPerView: 5,
+      slidesPerView: 8,
       spaceBetween: 20,
       simulateTouch: true,
       autoplay: {
